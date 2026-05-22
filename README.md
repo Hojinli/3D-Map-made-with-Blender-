@@ -1,4 +1,4 @@
-Link to the 8k texture map, sources, and 8k map base file.
+Link to the 8k texture map, sources, and for 8k map base file.
 8k is baked in Blender. 
 
 https://drive.google.com/drive/folders/1nrUdG7c5VSXLoEBGh8ZdBM7LAd1Qcmwz?usp=sharing
